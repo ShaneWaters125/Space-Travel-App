@@ -3,7 +3,7 @@ A space travel app which provides a user-friendly way to explore the exoplanet d
 Features:
 - User profiles which store unique data
 - The exoplanet database
-- Favouriting planets
+- favoriting planets
 - Filtering planets
 - Planning a journey to multiple planets and a summary is provided of the journeys time and length
 
