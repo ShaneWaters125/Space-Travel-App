@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_archive"
+            android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+            android:title="@string/menu_archive" />
+        <item
+            android:id="@+id/nav_journeyPlanner"
+            android:icon="@drawable/ic_rocket"
+            android:title="@string/journeyPlanner" />
+        <item
+            android:id="@+id/nav_savedJourneys"
+            android:icon="@drawable/ic_baseline_folder_24"
+            android:title="@string/savedjourney" />
+    </group>
+</menu>

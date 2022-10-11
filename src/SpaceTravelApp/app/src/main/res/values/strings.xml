@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">SpaceTravelApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_archive">Planet Archive</string>
+    <string name="nameLabel">Name:</string>
+    <string name="sizeLabel">Size:</string>
+    <string name="planetContent">Shows vector image of the planet</string>
+    <string name="orbitLabel">Orbital Period:</string>
+    <string name="noOfStarsLabel">No. of Stars:</string>
+    <string name="gravityLabel">Gravity:</string>
+    <string name="changeFilters">Change Filters</string>
+    <string name="tempLabel">Average Temperature:</string>
+    <string name="distanceLabel">Distance:</string>
+    <string name="filters">Filters</string>
+    <string name="minDistance">Min Distance</string>
+    <string name="maxDistance">Max Distance</string>
+    <string name="minTemperature">Min Temperature</string>
+    <string name="maxTemperature">Max Temperature</string>
+    <string name="gravity">Gravity</string>
+    <string name="size">Size</string>
+    <string name="applyfilters">Apply Filters</string>
+    <string name="closebutton">Closes the dialog window</string>
+    <string name="exoplanetitle">The lonely exoplanet guide</string>
+
+    <string-array name="gravity">
+        <item>No preference</item>
+        <item>Weak</item>
+        <item>Earth-like</item>
+        <item>Strong</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>No preference</item>
+        <item>Small</item>
+        <item>Earth-like</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="temp">
+        <item>No preference</item>
+        <item>Cold</item>
+        <item>Earth-like</item>
+        <item>Hot</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>No preference</item>
+        <item>Ice or Rock/Mountain Planet</item>
+        <item>Earth-Like or Desert Planet</item>
+        <item>Hot Desert Planet / Mountain Planet</item>
+        <item>Molten Planet</item>
+        <item>Gas Planet</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="journeyPlanner">Plan Your Journey</string>
+    <string name="savedjourney">Saved Journeys</string>
+    <string name="planetPicture">PlanetPicture</string>
+    <string name="appTitle">The Lonely Exoplanet Guide</string>
+    <string name="appIntro">Welcome to the exoplanet guide designed to help teach you everything you would need to know about planets beyond our solar system. Explore the entire exoplanet database which gives you all the available information for each planet making you the planet expert. If scrolling through an endless list of planets bores, you then why not plan a dream journey to any planet you wish using the plan a journey feature. You can even save and share the journeys you plan with people you know letting them know you have already planned a holiday for the future.</string>
+    <string name="startJourney">Start your journey now</string>
+    <string name="buttonSearch">Search planet archive</string>
+    <string name="nouser">Select a profile</string>
+    <string name="changeuser">Change user background</string>
+    <string name="changeuseracount">Changes the users account</string>
+    <string name="accounts">Select a profile</string>
+    <string name="title_activity_profiles">Select a profile</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="createprofle">Create new profile</string>
+    <string name="username">Username</string>
+    <string name="saveprofile">Save Profile</string>
+    <string name="favouritebutton">Favourite a planet</string>
+    <string name="temperature">Temperature</string>
+    <string name="addtojourney">Add to journey</string>
+    <string name="surfaceType">Surface Type:</string>
+    <string name="rightascension">Right Ascension:</string>
+    <string name="declination">Declination:</string>
+    <string name="plus">+</string>
+    <string name="finishJourney">Complete Journey</string>
+    <string name="numPlanets">No. Planets:</string>
+    <string name="surfaceTypeSpinner">Type</string>
+    <string name="spinnerTemperature">Temperature</string>
+    <string name="spinnerGravity">Gravity</string>
+    <string name="filterButton">Filter</string>
+    <string name="title_activity_journey">Planned Journey</string>
+    <string name="saveJourney">Save Journey</string>
+    <string name="yourJourney">Your Journey</string>
+    <string name="cancelJourney">Cancel Journey</string>
+    <string name="totalDistance">Distance Traveled:</string>
+    <string name="planetsVisited">No. Planets Visited:</string>
+    <string name="totalStars">Stars Orbited:</string>
+    <string name="totalTime">Estimated Travel Time:</string>
+    <string name="timeDescription">With NASA space shuttle</string>
+    <string name="savedJourneys">Saved Journeys</string>
+    <string name="openJourney">Opens Journey</string>
+    <string name="gasplanet">Gas</string>
+    <string name="moltenplanet">Molten</string>
+    <string name="hotplanet">Hot</string>
+    <string name="earthplanet">Habitable</string>
+    <string name="coldplanet">Cold</string>
+    <string name="hometext">Welcome to The Lonely Exoplanet Guide! Here are a few steps to get you started:</string>
+    <string name="tut01">Create your account by pressing the account icon on the navigation menu.</string>
+    <string name="tut02">Visit the planet archive and favourite the planets which your find interesting.</string>
+    <string name="credits"><![CDATA[Images provided by upklyak & vectorpuch (www.freepik.com)]]></string>
+    <string name="tut03">Plan a journey to your favourite planets and be see the statistics of your journey.</string>
+    <string name="tut04">Keep a list of all the journeys you have planned and go back to them whenever you want.</string>
+
+</resources>
